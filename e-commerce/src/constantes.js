@@ -1,0 +1,1 @@
+export const CategoriaItem = {BebidaConAlcohol: "Bebidas-Alcoholicas",BebidaSinAlcohol: "Bebidas-sin-alcohol" };
